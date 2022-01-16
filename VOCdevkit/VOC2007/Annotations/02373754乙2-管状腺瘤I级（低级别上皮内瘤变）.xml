@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>02373754乙2-管状腺瘤I级（低级别上皮内瘤变）.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\02373754乙2-管状腺瘤I级（低级别上皮内瘤变）.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>564</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>314</ymin>
+			<xmax>429</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

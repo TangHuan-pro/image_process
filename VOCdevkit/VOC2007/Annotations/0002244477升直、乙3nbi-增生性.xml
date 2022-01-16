@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0002244477升直、乙3nbi-增生性.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0002244477升直、乙3nbi-增生性.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>85</ymin>
+			<xmax>176</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

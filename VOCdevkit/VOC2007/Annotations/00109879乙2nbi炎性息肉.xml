@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>00109879乙2nbi炎性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\第二批图像标注\图像标注\original_images\00109879乙2nbi炎性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>191</ymin>
+			<xmax>357</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0000866077乙状结肠-炎性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0000866077乙状结肠-炎性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>228</ymin>
+			<xmax>292</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

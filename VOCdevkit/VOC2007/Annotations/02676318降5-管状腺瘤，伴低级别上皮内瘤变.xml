@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>02676318降5-管状腺瘤，伴低级别上皮内瘤变.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\02676318降5-管状腺瘤，伴低级别上皮内瘤变.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>566</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>210</ymin>
+			<xmax>491</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

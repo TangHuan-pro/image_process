@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0003025192退镜35cmNBI 10mm-炎性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0003025192退镜35cmNBI 10mm-炎性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>158</ymin>
+			<xmax>473</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

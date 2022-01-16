@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0003281688乙2-nbi-炎性.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0003281688乙2-nbi-炎性.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>274</ymin>
+			<xmax>161</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

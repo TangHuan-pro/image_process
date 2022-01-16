@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0005113519横4-无蒂锯齿状腺瘤息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0005113519横4-无蒂锯齿状腺瘤息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>91</ymin>
+			<xmax>438</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

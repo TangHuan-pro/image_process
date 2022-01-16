@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>284-1横结肠+0.4+管状腺瘤.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\284-1横结肠+0.4+管状腺瘤.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>158</ymin>
+			<xmax>325</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
