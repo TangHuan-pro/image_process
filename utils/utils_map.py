@@ -533,8 +533,8 @@ def get_map(MINOVERLAP, draw_plot, path = './map_out'):
                     cv2.rectangle(img_cumulative,(bb[0],bb[1]),(bb[2],bb[3]),color,2)
                     cv2.putText(img_cumulative, class_name, (bb[0],bb[1] - 5), font, 0.6, color, 1, cv2.LINE_AA)
 
-                    cv2.imshow("Animation", img)
-                    cv2.waitKey(20) 
+                    # cv2.imshow("Animation", img)
+                    # cv2.waitKey(20)
                     output_img_path = RESULTS_FILES_PATH + "/images/detections_one_by_one/" + class_name + "_detection" + str(idx) + ".jpg"
                     cv2.imwrite(output_img_path, img)
                     cv2.imwrite(img_cumulative_path, img_cumulative)
@@ -633,9 +633,9 @@ def get_map(MINOVERLAP, draw_plot, path = './map_out'):
                 axes.set_ylim([0.0,1.05])
                 fig.savefig(RESULTS_FILES_PATH + "/Precision/" + class_name + ".png")
                 plt.cla()
-                
-        if show_animation:
-            cv2.destroyAllWindows()
+
+        # if show_animation:
+        #     cv2.destroyAllWindows()
 
         results_file.write("\n# mAP of all classes\n")
         mAP     = sum_AP / n_classes

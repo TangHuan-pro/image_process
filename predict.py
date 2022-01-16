@@ -42,7 +42,7 @@ if __name__ == "__main__":
     #   dir_save_path指定了检测完图片的保存路径
     #   dir_origin_path和dir_save_path仅在mode='dir_predict'时有效
     #-------------------------------------------------------------------------#
-    dir_origin_path = "img/"
+    dir_origin_path = "map_out/images-optional"
     dir_save_path   = "img_out/"
 
     if mode == "predict":
