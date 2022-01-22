@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0003131661直乙交界nbi-增生性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0003131661直乙交界nbi-增生性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>319</ymin>
+			<xmax>428</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

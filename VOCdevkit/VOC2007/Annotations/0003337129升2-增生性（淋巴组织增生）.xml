@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0003337129升2-增生性（淋巴组织增生）.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0003337129升2-增生性（淋巴组织增生）.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>175</ymin>
+			<xmax>323</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

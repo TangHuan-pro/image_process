@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>130-1回盲部+0.8+绒毛管状腺瘤.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\130-1回盲部+0.8+绒毛管状腺瘤.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>146</ymin>
+			<xmax>162</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

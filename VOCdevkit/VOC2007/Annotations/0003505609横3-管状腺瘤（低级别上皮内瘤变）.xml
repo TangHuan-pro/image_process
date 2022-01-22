@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0003505609横3-管状腺瘤（低级别上皮内瘤变）.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0003505609横3-管状腺瘤（低级别上皮内瘤变）.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>107</ymin>
+			<xmax>304</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

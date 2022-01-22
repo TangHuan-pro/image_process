@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0005176193乙4-炎性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0005176193乙4-炎性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>483</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>39</ymin>
+			<xmax>191</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

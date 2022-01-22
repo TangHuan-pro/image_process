@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0003280170升1nbi-管状腺瘤.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0003280170升1nbi-管状腺瘤.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>722</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>62</ymin>
+			<xmax>397</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

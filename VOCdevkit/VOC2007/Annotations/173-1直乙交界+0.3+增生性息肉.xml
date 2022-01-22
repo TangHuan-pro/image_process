@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>173-1直乙交界+0.3+增生性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\173-1直乙交界+0.3+增生性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>242</ymin>
+			<xmax>385</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

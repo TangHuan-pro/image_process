@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0002155300乙5mm-增生性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0002155300乙5mm-增生性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>347</ymin>
+			<xmax>254</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

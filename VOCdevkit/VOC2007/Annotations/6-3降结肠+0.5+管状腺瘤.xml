@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>6-3降结肠+0.5+管状腺瘤.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\6-3降结肠+0.5+管状腺瘤.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>557</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>46</ymin>
+			<xmax>430</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

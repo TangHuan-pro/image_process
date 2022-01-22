@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>253-1直乙交界+0.6+管状腺瘤.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\253-1直乙交界+0.6+管状腺瘤.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adenoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>218</ymin>
+			<xmax>290</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

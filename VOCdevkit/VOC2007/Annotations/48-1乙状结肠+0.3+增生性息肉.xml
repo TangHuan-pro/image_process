@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>48-1乙状结肠+0.3+增生性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\48-1乙状结肠+0.3+增生性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>391</ymin>
+			<xmax>250</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

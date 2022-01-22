@@ -1,0 +1,26 @@
+<annotation>
+	<folder>original_images</folder>
+	<filename>0005226661直-增生性息肉.jpg</filename>
+	<path>C:\Users\20117\Desktop\图像标注\original_images\0005226661直-增生性息肉.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>306</ymin>
+			<xmax>354</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
